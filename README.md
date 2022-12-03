@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-## - 🏫 Pursuing M.tech from Jamia Millia Islamia 
+## - 🏫 Pursuing M.tech from Jamia Millia Islamia 👨‍💻
 ## - 🌱 Currently learning full stack web development using MERN
 ## - 🤝 Looking to collaborate on web development, software development projects
 ## - ⚡ Quite enthusiastic about Artificial intelligence
