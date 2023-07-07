@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 ## - ⚡ Quite enthusiastic about Artificial intelligence
 ## 
 ## - :computer: Languages known
-  ### Python | C | HTML | CSS | MySQL
+  ### Python | C | Java | MySQL | HTML | CSS 
