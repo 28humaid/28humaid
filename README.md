@@ -9,5 +9,7 @@ Here are some ideas to get you started:
 ## - 🤝 Looking to collaborate on web development, software development projects
 ## - ⚡ Quite enthusiastic about Artificial intelligence
 ## 
-## - :computer: Languages known
-  ### Python | C | Java | MySQL | HTML | CSS 
+## - :computer: Languages:
+  ### Python | C  | HTML | CSS
+## - :computer: Web Tech Stack:
+  ###  MySQL | MongoDB | Flask | Bootstrap
