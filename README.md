@@ -6,10 +6,5 @@
 Here are some ideas to get you started:
 -->
 ## - 🏫 Pursuing M.tech from Jamia Millia Islamia 👨‍💻
-## - 🤝 Looking to collaborate on web development, software development projects
 ## - ⚡ Quite enthusiastic about Artificial intelligence
-## 
-## - :computer: Languages:
-  ### Python | C  | HTML | CSS
-## - :computer: Web Tech Stack:
-  ###  MySQL | MongoDB | Flask | Bootstrap
+## - :computer: ### Python | Machine learning | Deep learning | C | Flask | HTML | CSS
