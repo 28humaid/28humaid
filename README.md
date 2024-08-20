@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 -->
-## - 🏫 MCA and M.tech from Jamia Millia Islamia 👨‍💻
-## - ⚡ Quite enthusiastic about Artificial intelligence
-## :computer: Technologies
+## 🎓 Master of Computer Applications (MCA) and Master of Technology (M.Tech) from Jamia Millia Islamia
+## 🤖 Passionate and Enthusiastic About Artificial Intelligence
+## :computer: Technologies:-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
