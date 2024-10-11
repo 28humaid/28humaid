@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-## 🎓 Master of Computer Applications (MCA) and Master of Technology (M.Tech) from Jamia Millia Islamia
+## 🎓 Master of Technology (M.Tech) from Jamia Millia Islamia
 ## 🤖 Software Development | Enthusiastic About Artificial Intelligence
 ## :computer: Technologies:-
 
