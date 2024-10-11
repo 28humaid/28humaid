@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 ## 🎓 Master of Computer Applications (MCA) and Master of Technology (M.Tech) from Jamia Millia Islamia
-## 🤖 Passionate and Enthusiastic About Artificial Intelligence
+## 🤖 Software Development | Passionate and Enthusiastic About Artificial Intelligence
 ## :computer: Technologies:-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
