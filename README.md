@@ -10,16 +10,6 @@
 
 </div>
 
----
-
-### 👋 About Me
-- 🔭 Currently working on ...
-- 🌱 Currently learning ...
-- 💬 Ask me about ...
-- 📫 Reach me at ...
-
----
-
 <div align="center">
 
 ## Software Development
